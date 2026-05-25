@@ -1,0 +1,13 @@
+# ================================
+# requirements.txt
+# ================================
+
+fastapi
+uvicorn
+python-multipart
+pymupdf
+pillow
+pytesseract
+google-genai
+python-dotenv
+pydantic
